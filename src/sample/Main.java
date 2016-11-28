@@ -84,7 +84,7 @@ public class Main extends Application {
                 }
                 nombers1.add(nombers.get((a-1)));
                 addAfter();
-                a = (a-1) / 2;
+                a = (a+1) / 2;
                 }
         }
     }
